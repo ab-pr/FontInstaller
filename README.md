@@ -11,10 +11,10 @@ Now, move it to `/usr/bin/` or anywhere you keep your binaries with:
 ## Useage
 
 It's quite simple, just do:
-`infont -f /path/to/font`
+`$ infont -f /path/to/font`
 and it will do everything automatically for you, no need for a gui :)
 it will also print the useful info to ther terminal after it has moved it.
 
 ## To check the source code 
 Just type:
-`cat /usr/bin/infont`
+`$ cat /usr/bin/infont`
